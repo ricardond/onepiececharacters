@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Monkey D. Luffy",
+        "reward": "B l3.000.000.000",
+        "gang": "Piratas do Chapéu de Palha(Muguiwaras)",
+        "image": "https://i.ibb.co/TYrKDsH/Monkey-DLuffy.webp",
+        "ocupation": "Capitão",
+        "age": "7 (estreia) 17 (pré-timeskip) 19 (pós-timeskip)",
+        "origin": "East Blue",
+        "birthday": "5 de Maio (Dia das Crianças no Japão)"
+    },
+
+    {
+        "name": "Nami",
+        "reward": "B 366,000,000",
+        "gang": "Piratas do Chapéu de Palha(Muguiwaras)",
+        "image": "https://i.ibb.co/bRxhLYk/Nami.webp",
+        "ocupation": "Navegadora",
+        "age": "18 (estreia) 20 (pós-timeskip)",
+        "origin": "East Blue",
+        "birthday": "3 de Julho"
+    },
+
+    {
+        "name": "Shanks",
+        "reward": "B 4,048,900,000",
+        "gang": "Piratas do Ruivo",
+        "image": "https://i.ibb.co/7g9GgCF/Shanks.webp",
+        "ocupation": "Capitão/Yonkou",
+        "age": "27 (estreia) 37 (pré-timeskip) 39 (pós-timeskip)",
+        "origin": "Desconhecida",
+        "birthday": "9 de Março"
+    }
+]
+
