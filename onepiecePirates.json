@@ -2,34 +2,51 @@
     {
         "name": "Monkey D. Luffy",
         "reward": "B l3.000.000.000",
-        "gang": "Piratas do Chapéu de Palha(Muguiwaras)",
+        "gang": "Piratas do Chapéu de Palha (Mugiwara)",
         "image": "https://i.ibb.co/TYrKDsH/Monkey-DLuffy.webp",
-        "ocupation": "Capitão",
+        "occupation": "Capitão",
         "age": "7 (estreia) 17 (pré-timeskip) 19 (pós-timeskip)",
         "origin": "East Blue",
         "birthday": "5 de Maio (Dia das Crianças no Japão)"
     },
-
     {
         "name": "Nami",
         "reward": "B 366,000,000",
-        "gang": "Piratas do Chapéu de Palha(Muguiwaras)",
+        "gang": "Piratas do Chapéu de Palha (Mugiwara)",
         "image": "https://i.ibb.co/bRxhLYk/Nami.webp",
-        "ocupation": "Navegadora",
+        "occupation": "Navegadora",
         "age": "18 (estreia) 20 (pós-timeskip)",
         "origin": "East Blue",
         "birthday": "3 de Julho"
     },
-
     {
         "name": "Shanks",
         "reward": "B 4,048,900,000",
         "gang": "Piratas do Ruivo",
         "image": "https://i.ibb.co/7g9GgCF/Shanks.webp",
-        "ocupation": "Capitão/Yonkou",
+        "occupation": "Capitão/Yonkou",
         "age": "27 (estreia) 37 (pré-timeskip) 39 (pós-timeskip)",
         "origin": "Desconhecida",
         "birthday": "9 de Março"
+    },
+    {
+        "name": "Roronoa Zoro",
+        "reward": "B 320,000,000",
+        "gang": "Piratas do Chapéu de Palha (Mugiwara)",
+        "image": "https://i.ibb.co/wKysc73/Roronoa-Zoro.webp",
+        "occupation": "Esgrimista",
+        "age": "19 (estreia) 21 (pós-timeskip)",
+        "origin": "East Blue",
+        "birthday": "11 de Novembro"
+    },
+    {
+        "name": "Sanji",
+        "reward": "B 330,000,000",
+        "gang": "Piratas do Chapéu de Palha (Mugiwara)",
+        "image": "https://i.ibb.co/1vmJPmC/Sanji.webp",
+        "occupation": "Cozinheiro",
+        "age": "19 (estreia) 21 (pós-timeskip)",
+        "origin": "North Blue",
+        "birthday": "2 de Março"
     }
 ]
-
