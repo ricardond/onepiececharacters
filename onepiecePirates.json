@@ -1,7 +1,7 @@
 [
     {
         "name": "Monkey D. Luffy",
-        "reward": "B l3.000.000.000",
+        "reward": "B 3.000.000.000",
         "gang": "Piratas do Chapéu de Palha (Mugiwara)",
         "image": "https://i.ibb.co/TYrKDsH/Monkey-DLuffy.webp",
         "occupation": "Capitão",
@@ -48,5 +48,155 @@
         "age": "19 (estreia) 21 (pós-timeskip)",
         "origin": "North Blue",
         "birthday": "2 de Março"
+    },
+    {
+        "name": "Nico Robin",
+        "reward": "B 130,000,000",
+        "gang": "Piratas do Chapéu de Palha (Mugiwara)",
+        "image": "https://i.ibb.co/xSv3k29/Nico-Robin.webp",
+        "occupation": "Arqueóloga",
+        "age": "28 (estreia) 30 (pós-timeskip)",
+        "origin": "West Blue",
+        "birthday": "6 de Fevereiro"
+    },
+    {
+        "name": "Franky",
+        "reward": "B 94,000,000",
+        "gang": "Piratas do Chapéu de Palha (Mugiwara)",
+        "image": "https://i.ibb.co/JzYbSTX/Franky.webp",
+        "occupation": "Carpinteiro/Shipwright",
+        "age": "34 (estreia) 36 (pós-timeskip)",
+        "origin": "South Blue",
+        "birthday": "9 de Março"
+    },
+    {
+        "name": "Brook",
+        "reward": "B 83,000,000",
+        "gang": "Piratas do Chapéu de Palha (Mugiwara)",
+        "image": "https://i.ibb.co/vvshVNn/Brook.webp",
+        "occupation": "Músico",
+        "age": "38 (estreia) 40 (pós-timeskip)",
+        "origin": "West Blue",
+        "birthday": "3 de Abril"
+    },
+    {
+        "name": "Tony Tony Chopper",
+        "reward": "B 100",
+        "gang": "Piratas do Chapéu de Palha (Mugiwara)",
+        "image": "https://i.ibb.co/V3ZMMjp/Tony-Tony-Chopper.webp",
+        "occupation": "Médico/Reindeer",
+        "age": "17 (estreia) 19 (pós-timeskip)",
+        "origin": "Drum Island",
+        "birthday": "24 de Dezembro"
+    },
+    {
+        "name": "Usopp",
+        "reward": "B 200,000,000",
+        "gang": "Piratas do Chapéu de Palha (Mugiwara)",
+        "image": "https://i.ibb.co/Cn29zmM/Usopp.webp",
+        "occupation": "Atirador/Mentiroso",
+        "age": "17 (estreia) 19 (pós-timeskip)",
+        "origin": "Syrup Village",
+        "birthday": "1 de Abril"
+    },
+    {
+        "name": "Jinbe",
+        "reward": "B 438,000,000",
+        "gang": "Piratas do Chapéu de Palha (Mugiwara)",
+        "image": "https://i.ibb.co/yY4v9WN/Jinbe.webp",
+        "occupation": "Timoneiro",
+        "age": "44 (estreia) 46 (pós-timeskip)",
+        "origin": "Fishman Island",
+        "birthday": "2 de Abril"
+    },
+    {
+        "name": "Trafalgar D. Water Law",
+        "reward": "B 500,000,000",
+        "gang": "Piratas do Coração (Heart Pirates)",
+        "image": "https://i.ibb.co/wz6Q2Ht/Trafalgar-D-Water-Law.webp",
+        "occupation": "Capitão/Cirurgião",
+        "age": "26 (estreia) 28 (pós-timeskip)",
+        "origin": "North Blue",
+        "birthday": "6 de Outubro"
+    },
+    {
+        "name": "Eustass Kid",
+        "reward": "B 470,000,000",
+        "gang": "Piratas do Kid",
+        "image": "https://i.ibb.co/Fzv55W9/Eustass-Kid.webp",
+        "occupation": "Capitão",
+        "age": "21 (estreia) 23 (pós-timeskip)",
+        "origin": "South Blue",
+        "birthday": "10 de Janeiro"
+    },
+    {
+        "name": "Portgas D. Ace",
+        "reward": "B 550,000,000",
+        "gang": "Piratas do Barba Branca (Whitebeard)",
+        "image": "https://i.ibb.co/WzXhVnW/Portgas-D-Ace.webp",
+        "occupation": "Pirata",
+        "age": "20 (estreia) 22 (pós-timeskip)",
+        "origin": "East Blue",
+        "birthday": "1 de Janeiro"
+    },
+    {
+        "name": "Boa Hancock",
+        "reward": "B 80,000,000",
+        "gang": "Kuja",
+        "image": "https://i.ibb.co/mHmPhq6/Boa-Hancock.webp",
+        "occupation": "Imperatriz Pirata",
+        "age": "29 (estreia) 31 (pós-timeskip)",
+        "origin": "Amazon Lily",
+        "birthday": "2 de Setembro"
+    },
+    {
+        "name": "Blackbeard",
+        "reward": "B 2,247,600,000",
+        "gang": "Piratas do Barba Negra",
+        "image": "https://i.ibb.co/zH0yr8N/Blackbeard.webp",
+        "occupation": "Capitão/Yonkou",
+        "age": "40 (estreia) 42 (pós-timeskip)",
+        "origin": "Desconhecida",
+        "birthday": "3 de Agosto"
+    },
+    {
+        "name": "Gol D. Roger",
+        "reward": "B 5,564,800,000",
+        "gang": "Piratas Roger",
+        "image": "https://i.ibb.co/kcKTnp9/Gol-D-Roger.webp",
+        "occupation": "Rei dos Piratas",
+        "age": "39 (estreia) - Falecido",
+        "origin": "Unknown",
+        "birthday": "Unknown"
+    },
+    {
+        "name": "Kaido",
+        "reward": "B 4,611,100,000",
+        "gang": "Piratas das Feras (Beasts Pirates)",
+        "image": "https://i.ibb.co/M9f8kzp/Kaido.webp",
+        "occupation": "Capitão/Yonkou",
+        "age": "Unknown",
+        "origin": "Unknown",
+        "birthday": "Unknown"
+    },
+    {
+        "name": "Big Mom",
+        "reward": "B 4,388,000,000",
+        "gang": "Piratas da Big Mom (Big Mom Pirates)",
+        "image": "https://i.ibb.co/5j8H5zf/Big-Mom.webp",
+        "occupation": "Capitã/Yonkou",
+        "age": "68 (estreia) 70 (pós-timeskip)",
+        "origin": "Unknown",
+        "birthday": "15 de Fevereiro"
+    },
+    {
+        "name": "Charlotte Katakuri",
+        "reward": "B 1,057,000,000",
+        "gang": "Piratas da Big Mom (Big Mom Pirates)",
+        "image": "https://i.ibb.co/Ycz30rT/Charlotte-Katakuri.webp",
+        "occupation": "Comandante Doce",
+        "age": "48 (estreia) 50 (pós-timeskip)",
+        "origin": "Unknown",
+        "birthday": "Unknown"
     }
 ]
